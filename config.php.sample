@@ -1,0 +1,8 @@
+<?
+$dbname =   "todo";
+$dbuser =   "todouser";
+$dbpass =   "mysuperpass";
+$table	=   "todo_dontforget";
+$title	=   "To-do";
+$host   =   "mymysqldbip";
+?>
