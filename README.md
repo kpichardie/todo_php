@@ -1,1 +1,1 @@
-# todo_php
+# todo_php## Configuration ##```cp todo_php/config.php.sample todo_php/config.php# options :$dbname set the name of you db$dbuser mysql user for you db$dbpass password used to connect to your db$table table used for todo $title Site title$host mysql host ip```
